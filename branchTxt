@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file belongs to branch master
+=======
+this file belongs to branch new_branch
+>>>>>>> new_branch
